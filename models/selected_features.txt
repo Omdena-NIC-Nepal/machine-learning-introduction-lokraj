@@ -1,0 +1,10 @@
+chas
+nox
+rm
+ptratio
+lstat
+ROOMS_PER_TAX
+NOX_ACCESS
+CRIM_LOG
+HIGHWAY_ACCESS
+AGE_GROUP_mid
